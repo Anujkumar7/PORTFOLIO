@@ -7,25 +7,25 @@ export default function Contact() {
   const contactLinks = [
     {
       name: "GitHub",
-      url: "https://github.com/anujkumar",
+      url: "https://github.com/Anujkumar7",
       icon: Github,
       color: "hover:text-gray-800 dark:hover:text-white",
     },
     {
       name: "LinkedIn",
-      url: "https://linkedin.com/in/anujkumar",
+      url: "https://www.linkedin.com/in/anuj-kumar2206/",
       icon: Linkedin,
       color: "hover:text-blue-600",
     },
     {
       name: "LeetCode",
-      url: "https://leetcode.com/anujkumar",
+      url: "https://leetcode.com/u/AnujX/",
       icon: Code,
       color: "hover:text-yellow-500",
     },
     {
       name: "Email",
-      url: "mailto:anujkumar@example.com",
+      url: "mailto:Kumaranuj2k1@gmail.com",
       icon: Mail,
       color: "hover:text-red-500",
     },
@@ -71,7 +71,7 @@ export default function Contact() {
             
             <div className="mt-8 text-center">
               <Button asChild>
-                <a href="mailto:anujkumar@example.com">
+                <a href="mailto:Kumaranuj2k1@gmail.com">
                   Send Email
                 </a>
               </Button>
